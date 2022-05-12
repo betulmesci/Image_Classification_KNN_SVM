@@ -1,4 +1,4 @@
-# Image_Classification_KNN_SVM
+# Image Classification with KNN and SVM
 
 In this project, I used K Nearest Neighbors (KNN) and Support Vector Machine (SVM) Algorithms to
 classify house numbers obtained from Google Street View photos dataset. Both models did fairly well 
